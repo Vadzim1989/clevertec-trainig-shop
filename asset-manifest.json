@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/clevertec-trainig-shop/static/css/main.073c9b0a.css",
-    "main.js": "/clevertec-trainig-shop/static/js/main.88c0390d.js",
-    "static/js/787.890fc79e.chunk.js": "/clevertec-trainig-shop/static/js/787.890fc79e.chunk.js",
-    "static/media/logo.svg": "/clevertec-trainig-shop/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/clevertec-trainig-shop/index.html",
-    "main.073c9b0a.css.map": "/clevertec-trainig-shop/static/css/main.073c9b0a.css.map",
-    "main.88c0390d.js.map": "/clevertec-trainig-shop/static/js/main.88c0390d.js.map",
-    "787.890fc79e.chunk.js.map": "/clevertec-trainig-shop/static/js/787.890fc79e.chunk.js.map"
+    "main.css": "/trainig-shop/static/css/main.073c9b0a.css",
+    "main.js": "/trainig-shop/static/js/main.68a4e578.js",
+    "static/js/787.890fc79e.chunk.js": "/trainig-shop/static/js/787.890fc79e.chunk.js",
+    "static/media/logo.svg": "/trainig-shop/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/trainig-shop/index.html",
+    "main.073c9b0a.css.map": "/trainig-shop/static/css/main.073c9b0a.css.map",
+    "main.68a4e578.js.map": "/trainig-shop/static/js/main.68a4e578.js.map",
+    "787.890fc79e.chunk.js.map": "/trainig-shop/static/js/787.890fc79e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.88c0390d.js"
+    "static/js/main.68a4e578.js"
   ]
 }
