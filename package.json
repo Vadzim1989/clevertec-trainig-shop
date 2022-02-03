@@ -1,8 +1,7 @@
 {
-  "name": "trainig-shop",
+  "name": "clevertec-trainig-shop",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/vadzim1989/clevertec-trainig-shop",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.2",
     "@testing-library/react": "^12.1.2",
